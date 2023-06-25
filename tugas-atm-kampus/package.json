@@ -1,0 +1,12 @@
+{
+  "name": "tugas-atm",
+  "version": "1.0.0",
+  "description": "tugas akhir kelompok java (Alfiana, Galuh, Arif, Fiko, Rizki, Bintang) ",
+  "main": "atmApps.java",
+  "scripts": {
+    "dev": "java atmApps.java"
+  },
+  "keywords": ["Tugas Atm", "Tugas Java", "Kelompok 3" ],
+  "author": "Kelompok 3",
+  "license": "ISC"
+}
